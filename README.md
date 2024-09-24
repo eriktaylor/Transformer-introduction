@@ -20,7 +20,7 @@ Multimodal and foundation models
 
 ## Mini-projects using generative AI
 
-[Review of AI scientist](https://medium.com/@erikntaylor/review-of-ai-scientist-and-related-2024-papers-by-a-human-scientist-with-help-from-gpt-4o-b53c101943ac)
+[Review of 3 papers including the AI scientist](https://medium.com/@erikntaylor/review-of-ai-scientist-and-related-2024-papers-by-a-human-scientist-with-help-from-gpt-4o-b53c101943ac)
 
 Topics: research paper summary, idea generation, the AI Scientist.
 
