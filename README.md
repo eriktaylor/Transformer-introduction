@@ -1,6 +1,6 @@
 # Transformer
 This is an overview of the transformer architecture with emphasis on vision-language applications. I'll include short articles to introduce the topics and mini-projects that span my recent work in vision, vision-language, and generative AI. 
-**this site is under active development**
+**This site is under active development.**
 
 ## Introduction
 The Transformer is a general purpose architecture used for machine learning. It is the backend for state of the art generative AI and foundation models that power recent applications. I'll focus on the technology that helped to build models used in ChatGPT, Google Gemini, Stable Diffusion, and others. This is an overview about how the transformer architecture is used for vision applications starting from basics to current state of the art. 
