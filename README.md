@@ -8,7 +8,7 @@ Each topic below is broken down into short articles that require about 15 minute
 
 ## Short articles on transformers
 
-[Transformer introduced for NLP (2017)](https://github.com/TestLinkOpenSourceTRMS/testlink-code)
+[Transformer introduced for NLP (2017)](https://medium.com/@erikntaylor/transformer-introduced-for-nlp-80c02858064d)
 
 Vision transformer (2020)
 
