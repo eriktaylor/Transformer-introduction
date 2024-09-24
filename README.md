@@ -5,6 +5,8 @@ The Transformer is a general purpose architecture used for machine learning. It 
 
 Each topic below is broken down into short articles that require about 15 minutes to read or mini-projects.
 
+Short articles
+
 [Transformer introduced for NLP (2017)](https://github.com/TestLinkOpenSourceTRMS/testlink-code)
 
 Vision transformer (2020)
@@ -12,4 +14,8 @@ Vision transformer (2020)
 Vision-language transformer
 
 Multimodal and foundation models
+
+Mini-projects
+
+
 
