@@ -19,9 +19,11 @@ Multimodal and foundation models
 ## Mini-projects using generative AI
 
 [Review of AI scientist](https://medium.com/@erikntaylor/review-of-ai-scientist-and-related-2024-papers-by-a-human-scientist-with-help-from-gpt-4o-b53c101943ac)
+
 Topics: research paper summary, idea generation, the AI Scientist 
 
 [Visualizing the AI Scientist](https://medium.com/@erikntaylor/visualizing-the-ai-scientist-2aa820ffe1f6)
+
 Topics: generative AI, text-to-image, image-to-text.
 
 If this list grows substantially, I'll move this into a new repository on generative AI.
