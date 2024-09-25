@@ -30,6 +30,6 @@ Topics: generative AI, text-to-image, image-to-text.
 
 [mini-project: text to video]
 
-[mini-project: LORA for diffusion models]
+[mini-project: LORA]
 
 If this list grows substantially, I'll move this into a new repository on generative AI.
