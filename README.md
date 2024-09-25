@@ -29,6 +29,7 @@ Topics: research paper summary, idea generation, the AI Scientist.
 Topics: generative AI, text-to-image, image-to-text.
 
 [mini-project: text to video]
+
 [mini-project: LORA for diffusion models]
 
 If this list grows substantially, I'll move this into a new repository on generative AI.
