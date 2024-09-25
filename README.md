@@ -28,7 +28,10 @@ Topics: AI paper summary, idea generation, paper review, the AI Scientist.
 
 Topics: generative AI, text-to-image, image-to-text.
 
-[mini-project: text to video]
+[Image-to-video with the AI scientist]()
+
+Topics: generative AI, image-to-video.
+
 
 [mini-project: LORA]
 
