@@ -1,5 +1,5 @@
 # Transformer
-This is an overview of the transformer architecture with emphasis on vision-language models. I'll include short articles to introduce the topics and mini-projects that span my recent work in foundation models, vision-language, LLMs, and generative AI. 
+This is an overview of the transformer architecture with emphasis on vision-language models. I'll include short articles to introduce the topics and mini-projects that span my open work in foundation models, vision-language, LLMs, and generative AI. 
 
 **This site is under active development.**
 
