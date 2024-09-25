@@ -22,15 +22,15 @@ Multimodal and foundation models
 
 [My response to 3 papers from 2024 relating to the AI scientist](https://medium.com/@erikntaylor/review-of-ai-scientist-and-related-2024-papers-by-a-human-scientist-with-help-from-gpt-4o-b53c101943ac)
 
-Topics: AI paper summary, idea generation, paper review, the AI Scientist.
+topics: AI paper summary, idea generation, paper review, the AI Scientist.
 
 [Visualizing the AI Scientist](https://medium.com/@erikntaylor/visualizing-the-ai-scientist-2aa820ffe1f6)
 
-Topics: generative AI, text-to-image, image-to-text.
+topics: generative AI, text-to-image, image-to-text.
 
 [Image-to-video with the AI Scientist]()
 
-Topics: generative AI, image-to-video.
+topics: generative AI, image-to-video.
 
 
 [mini-project: LORA]
