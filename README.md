@@ -32,7 +32,7 @@ topics: generative AI, text-to-image, image-to-text.
 
 [Image-to-video with the AI Scientist](https://medium.com/@erikntaylor/image-to-video-with-the-ai-scientist-dd86c365d6fa)
 
-topics: generative AI, image-to-video.
+topics: generative AI, image-to-video, text-to-audio.
 
 
 [mini-project: LORA]
