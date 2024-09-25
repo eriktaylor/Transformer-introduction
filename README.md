@@ -28,5 +28,6 @@ Topics: research paper summary, idea generation, the AI Scientist.
 
 Topics: generative AI, text-to-image, image-to-text.
 
-If this list grows substantially, I'll move this into a new repository on generative AI.
+[mini-project: text to video]()
 
+If this list grows substantially, I'll move this into a new repository on generative AI.
