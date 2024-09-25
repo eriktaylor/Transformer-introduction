@@ -28,7 +28,7 @@ Topics: AI paper summary, idea generation, paper review, the AI Scientist.
 
 Topics: generative AI, text-to-image, image-to-text.
 
-[Image-to-video with the AI scientist]()
+[Image-to-video with the AI Scientist]()
 
 Topics: generative AI, image-to-video.
 
