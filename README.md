@@ -16,7 +16,9 @@ Vision transformer (2020)
 
 Vision-language transformer
 
-Multimodal and foundation models
+Diffusion transformer
+
+Multimodal models
 
 ## Mini-projects using generative AI
 
