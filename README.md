@@ -18,6 +18,8 @@ Vision-language transformer
 
 Diffusion transformer
 
+Segment Anything v1 & v2
+
 Multimodal models
 
 ## Mini-projects using generative AI
