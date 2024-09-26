@@ -12,11 +12,11 @@ Each topic below is broken down into short articles that require about 10 minute
 
 [Transformer introduced for NLP (2017)](https://medium.com/@erikntaylor/transformer-introduced-for-nlp-80c02858064d)
 
-[Vision transformer (2020)](https://medium.com/@erikntaylor/vision-transformer-2174178964d3)
+[Vision Transformer (2020)](https://medium.com/@erikntaylor/vision-transformer-2174178964d3)
 
-Dense prediction transformer
+Dense Prediction Transformer
 
-Diffusion transformer
+Diffusion Transformer
 
 Segment Anything v1 & v2
 
@@ -24,7 +24,7 @@ Multimodal models
 
 ## Mini-projects using generative AI
 
-[My response to 3 papers from 2024 relating to the AI scientist](https://medium.com/@erikntaylor/review-of-ai-scientist-and-related-2024-papers-by-a-human-scientist-with-help-from-gpt-4o-b53c101943ac)
+[My response to 3 papers from 2024 relating to the AI Scientist](https://medium.com/@erikntaylor/review-of-ai-scientist-and-related-2024-papers-by-a-human-scientist-with-help-from-gpt-4o-b53c101943ac)
 
 topics: AI paper summary, idea generation, paper review, the AI Scientist.
 
