@@ -12,9 +12,9 @@ Each topic below is broken down into short articles that require about 10 minute
 
 [Transformer introduced for NLP (2017)](https://medium.com/@erikntaylor/transformer-introduced-for-nlp-80c02858064d)
 
-Vision transformer (2020)
+[Vision transformer (2020)](https://medium.com/@erikntaylor/vision-transformer-2174178964d3)
 
-Vision-language transformer
+Dense prediction transformer
 
 Diffusion transformer
 
