@@ -38,4 +38,3 @@ topics: generative AI, image-to-video.
 
 [mini-project: LORA]
 
-**If this list grows substantially, I'll move this into a new repository on generative AI.**
