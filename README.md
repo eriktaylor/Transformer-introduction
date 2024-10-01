@@ -4,7 +4,7 @@ This is an overview of the transformer architecture with emphasis on vision or m
 _This site is under active development._
 
 ## Introduction
-The Transformer is a general purpose architecture used for machine learning. It is the backend for generative AI and foundation models that power recent applications. I'll focus on the basics and build up to the algorithms behind large models like GPT-4o, Google Gemini, Stable Diffusion, and others. This is an overview about how the transformer or related neural network architectures are used for these applications starting from the basics to multi-modal models.
+The Transformer is a general purpose architecture used for machine learning. It is the backend for generative AI and foundation models that power recent applications. I'll focus on the basics and build up to the algorithms behind large models like GPT-4o, Google Gemini, Stable Diffusion, and others. This is an overview about how the transformer or related neural network architectures are used for these applications.
 
 ## Short articles on transformers
 
