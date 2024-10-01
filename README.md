@@ -16,9 +16,8 @@ The Transformer is a general purpose architecture used for machine learning. It 
 
 _In progress..._<br>
 Dense Prediction Transformer<br>
-Diffusion Transformer
-Multimodal models
-Liquid Foundation Models
+Diffusion Transformer<br>
+Multimodal models<br>
 
 ## Mini-projects using generative AI
 
