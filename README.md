@@ -14,13 +14,11 @@ Each topic below is broken down into brief articles that require about 5-10 minu
 
 [Vision Transformer (2020)](https://medium.com/@erikntaylor/vision-transformer-2174178964d3)
 
+_In progress..._
 Dense Prediction Transformer
-
 Diffusion Transformer
-
-Segment Anything v1 & v2
-
 Multimodal models
+Liquid Foundation Models
 
 ## Mini-projects using generative AI
 
