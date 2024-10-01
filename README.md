@@ -1,14 +1,14 @@
 # Transformer
 This is an overview of the transformer architecture with emphasis on vision-language models. I'll include short articles to introduce the topics and mini-projects that span my open work in foundation models, vision-language, LLMs, and generative AI. 
 
-**This site is under active development.**
+_This site is under active development._
 
 ## Introduction
 The Transformer is a general purpose architecture used for machine learning. It is the backend for generative AI and foundation models that power recent applications. I'll focus on the technology that helped to build models used in ChatGPT, Google Gemini, Stable Diffusion, and others. This is an overview about how the transformer architecture is used for vision-language applications starting from the basics to current state-of-the-art and multi-modal models.
 
 ## Short articles on transformers
 
-Each topic below is broken down into brief articles that require about 5-10 minutes to read.
+**Each topic below is broken down into brief articles that require about 5-10 minutes to read.**
 
 [Transformer introduced for NLP (2017)](https://medium.com/@erikntaylor/transformer-introduced-for-nlp-80c02858064d)
 
@@ -21,6 +21,8 @@ Multimodal models
 Liquid Foundation Models
 
 ## Mini-projects using generative AI
+
+**These are mini-projects that demo different generative AI concepts using API or cloud GPU.**
 
 [My response to 3 papers from 2024 relating to the AI Scientist](https://medium.com/@erikntaylor/review-of-ai-scientist-and-related-2024-papers-by-a-human-scientist-with-help-from-gpt-4o-b53c101943ac)
 
