@@ -21,7 +21,7 @@ Multimodal models<br>
 
 ## Mini-projects using generative AI
 
-**These are mini-projects that demo different generative AI concepts using cloud compute or public API.**
+**These are mini-projects that demonstrate transformer and generative AI use with cloud compute or public API.**
 
 [My response to 3 papers from 2024 relating to the AI Scientist](https://medium.com/@erikntaylor/review-of-ai-scientist-and-related-2024-papers-by-a-human-scientist-with-help-from-gpt-4o-b53c101943ac)
 
