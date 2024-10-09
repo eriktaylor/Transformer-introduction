@@ -36,5 +36,3 @@ topics: generative AI, text-to-image, image-to-text.
 topics: generative AI, image-to-video.
 
 
-[mini-project: LORA]
-
