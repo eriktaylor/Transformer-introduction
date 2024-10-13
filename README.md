@@ -16,8 +16,7 @@ The Transformer is a general purpose architecture used for machine learning. It 
 
 [Dense prediction transformer (DPT) monocular depth estimation tutorial](https://medium.com/@erikntaylor/dense-prediction-transformer-dpt-monocular-depth-estimation-tutorial-bd4d8e7fb188)
 
-_In progress..._<br>
-Multimodal models<br>
+[Unlocking CLIP: from Breakthrough to Search Applications](https://medium.com/@erikntaylor/unlocking-clip-from-breakthrough-to-search-applications-6ff2d9c96387)
 
 ## Mini-projects using generative AI
 
