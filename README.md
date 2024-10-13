@@ -14,9 +14,9 @@ The Transformer is a general purpose architecture used for machine learning. It 
 
 [Vision Transformer (2020)](https://medium.com/@erikntaylor/vision-transformer-2174178964d3)
 
-[Dense prediction transformer (DPT) monocular depth estimation tutorial](https://medium.com/@erikntaylor/dense-prediction-transformer-dpt-monocular-depth-estimation-tutorial-bd4d8e7fb188)
+[Dense Prediction Transformer (DPT) monocular depth estimation tutorial](https://medium.com/@erikntaylor/dense-prediction-transformer-dpt-monocular-depth-estimation-tutorial-bd4d8e7fb188)
 
-[Unlocking CLIP: from Breakthrough to Search Applications](https://medium.com/@erikntaylor/unlocking-clip-from-breakthrough-to-search-applications-6ff2d9c96387)
+[Unlocking CLIP: from breakthrough to search applications](https://medium.com/@erikntaylor/unlocking-clip-from-breakthrough-to-search-applications-6ff2d9c96387)
 
 ## Mini-projects using generative AI
 
