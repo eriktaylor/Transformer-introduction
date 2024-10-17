@@ -8,7 +8,7 @@ The Transformer is a general purpose architecture used for machine learning. It 
 
 ## Short articles on transformers
 
-**I've broken down each topic into brief articles and may include a tutorial.**
+**I've broken down each topic into brief articles that may include a coding tutorial.**
 
 [Transformer introduced for NLP (2017)](https://medium.com/@erikntaylor/transformer-introduced-for-nlp-80c02858064d)
 
