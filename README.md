@@ -1,5 +1,5 @@
 # Transformer
-This is my overview of the transformer architecture with emphasis on vision, language, or multi-modal models. I'll include my articles to introduce the topics and mini-projects that span open work in vision, foundation models, LLMs, and generative AI. 
+This is an overview of the transformer architecture with emphasis on vision, language, or multi-modal models. I'll include my articles to introduce the topics and mini-projects that span open work in vision, foundation models, LLMs, and generative AI. 
 
 _This site is under active development._
 
