@@ -1,5 +1,5 @@
 # Transformer
-This is an overview of the transformer architecture with emphasis on vision, language, or multi-modal models. I'll include my articles to introduce the topics and mini-projects that span open work in vision, foundation models, LLMs, and generative AI. 
+This is my overview of the transformer architecture with emphasis on vision, language, or multi-modal models. I'll include my articles to introduce the topics and mini-projects that span open work in vision, foundation models, LLMs, and generative AI. 
 
 _This site is under active development._
 
@@ -8,7 +8,7 @@ The Transformer is a general purpose architecture used for machine learning. It 
 
 ## Short articles on transformers
 
-**Each topic is broken down into brief articles and may include a tutorial.**
+**I've broken down each topic into brief articles and may include a tutorial.**
 
 [Transformer introduced for NLP (2017)](https://medium.com/@erikntaylor/transformer-introduced-for-nlp-80c02858064d)
 
