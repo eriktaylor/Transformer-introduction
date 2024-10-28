@@ -18,6 +18,9 @@ The Transformer is a general purpose architecture used for machine learning. It 
 
 [Unlocking CLIP: from breakthrough to search applications](https://medium.com/@erikntaylor/unlocking-clip-from-breakthrough-to-search-applications-6ff2d9c96387)
 
+[Visualizing DINOv2 contrastive learning and classification examples](https://medium.com/@erikntaylor/visualizing-dinov2-contrastive-learning-and-classification-examples-9e6d8f87acf6)
+
+
 ## Mini-projects using generative AI
 
 **These are mini-projects demonstrated with cloud compute or public API.**
