@@ -2,7 +2,7 @@
 This is an overview of the transformer architecture with emphasis on vision, language, or multi-modal models. I'll include my articles to introduce the topics and mini-projects that span my interests in vision, foundation models, LLMs, and generative AI. 
 
 ## Introduction
-The Transformer is a general purpose architecture used for machine learning. It is the backend for foundation models that power recent generative AI applications. I'll focus on the basics and build up to large multimodal models with an emphasis on open source or open weight models, where possible. This is an overview about how the transformer or other competitive neural network architectures are used for these applications.
+The Transformer is a general purpose architecture used for machine learning. It is a general purpose algorithm that powers recent generative AI applications. I'll focus on the basics and build up to large multi-modal models with an emphasis on open-source or open-weight models, where possible. This is an overview about how the transformer or other competitive neural network architectures are used for these applications.
 
 ## Short articles on transformers
 
