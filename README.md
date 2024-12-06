@@ -18,7 +18,7 @@ The Transformer is a general purpose architecture used for machine learning. It 
 
 [Visualizing DINOv2 contrastive learning and classification examples](https://medium.com/@erikntaylor/visualizing-dinov2-contrastive-learning-and-classification-examples-9e6d8f87acf6)
 
-[Diffusion Transformer and Rectified Flow for Conditional Image Generation](https://medium.com/@erikntaylor/diffusion-transformer-and-rectified-flow-for-conditional-image-generation-997075c12e2f)
+[Diffusion Transformer and Rectified Flow Transformer for Conditional Image Generation](https://medium.com/@erikntaylor/diffusion-transformer-and-rectified-flow-for-conditional-image-generation-997075c12e2f)
 
 
 ## Mini-projects using generative AI
