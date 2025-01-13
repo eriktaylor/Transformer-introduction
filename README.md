@@ -25,6 +25,10 @@ The Transformer is a general purpose architecture used for machine learning. It 
 
 **These are mini-projects demonstrated with cloud compute or public API.**
 
+[Aligning AI’s Thought Process: Teaching LLMs to Think](https://medium.com/@erikntaylor/aligning-ais-thought-process-teaching-llms-to-think-e8ed703b378c)
+
+topics: LLMs, alignment, reasoning
+
 [My response to 3 papers from 2024 relating to the AI Scientist](https://medium.com/@erikntaylor/review-of-ai-scientist-and-related-2024-papers-by-a-human-scientist-with-help-from-gpt-4o-b53c101943ac)
 
 topics: AI paper summary, idea generation, paper review, the AI Scientist.
