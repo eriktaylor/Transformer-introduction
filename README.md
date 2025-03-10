@@ -24,6 +24,9 @@ The Transformer is a general purpose architecture used for machine learning. It 
 ## Mini-projects using generative AI
 
 **These are mini-projects demonstrated with cloud compute or public API.**
+[Visual Planning and Reasoning in LLMs: Vector Graphics and Structured Representations](https://medium.com/@erikntaylor/visual-planning-and-reasoning-in-llms-vector-graphics-and-structured-representations-f0fa021f9e80)
+
+topics: LLMs, visual understanding, structured representations
 
 [Aligning AI’s Thought Process: Teaching LLMs to Think](https://medium.com/@erikntaylor/aligning-ais-thought-process-teaching-llms-to-think-e8ed703b378c)
 
