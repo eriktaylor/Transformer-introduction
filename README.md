@@ -20,6 +20,7 @@ The Transformer is a general purpose architecture used for machine learning. It 
 
 [Diffusion Transformer and Rectified Flow Transformer for Conditional Image Generation](https://medium.com/@erikntaylor/diffusion-transformer-and-rectified-flow-for-conditional-image-generation-997075c12e2f)
 
+[Understanding Multi-Head Latent Attention](https://medium.com/digital-mind/understanding-multi-head-latent-attention-36f5d954f0cf)
 
 ## Mini-projects using generative AI
 
