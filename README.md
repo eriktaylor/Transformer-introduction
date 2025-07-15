@@ -22,6 +22,8 @@ The Transformer is a general purpose architecture used for machine learning. It 
 
 [Understanding Multi-Head Latent Attention](https://medium.com/digital-mind/understanding-multi-head-latent-attention-36f5d954f0cf)
 
+[Quantifying Memorization in LLMs: Implications for Creativity and Algorithmic Thought](https://medium.com/digital-mind/quantifying-memorization-in-llms-implications-for-creativity-and-algorithmic-thought-0e553cd73581)
+
 ## Mini-projects using generative AI
 
 **These are mini-projects demonstrated with cloud compute or public API.**
